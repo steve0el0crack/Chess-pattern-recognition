@@ -1,0 +1,1 @@
+{:browser-repl true, :main facharbeit2020_2021.core, :output-to "out/main.js", :output-dir "out", :aot-cache true}
